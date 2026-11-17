@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-importd"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-importd component"
+description = "systemd importd"
 upstream = []
 
 [contract]
